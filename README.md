@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **st-den/st-den** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=st-den&count_private=true&show_icons=true&disable_animations=true&hide_title=true&theme=dark&hide_rank=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-den&layout=compact&theme=dark&hide_title=true"/>
+</p>
