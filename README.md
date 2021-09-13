@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=st-den&count_private=true&show_icons=true&disable_animations=true&hide_title=true&theme=dark&hide_rank=true"/>
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-den&layout=compact&theme=dark&hide_title=true"/>
-</p>
+[![st-den's github stats](https://github-readme-stats.vercel.app/api?username=st-den&count_private=true&show_icons=true&disable_animations=true&hide_title=false&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![st-den's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st-den&layout=compact&theme=dark&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
